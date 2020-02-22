@@ -1,0 +1,26 @@
+{
+  "name": "jrb/simple",
+  "version": "0.0.2",
+  "description": "Simle Utilities for laravel!",
+  "type": "package",
+  "authors": [
+    {
+      "name": "jrb",
+      "email": "jrb.youssef@gmail.com"
+    }
+  ],
+  "minimum-stability": "dev",
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "Jrb\\Simple\\": "src"
+    },
+    "extra": {
+      "laravel": {
+        "providers": [
+          "Jrb\\Simple\\SimpleServiceProvider"
+        ]
+      }
+    }
+  }
+}
