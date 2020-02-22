@@ -8,7 +8,7 @@
 1 - To install Simple:
 
 ```shell
-composer require jrb/simple
+composer require jrb-y/simple
 ```
 
 2 - If you use Laravel +5.0 no need to register the Service Provider, else you need 
