@@ -1,7 +1,13 @@
 {
   "name": "jrb-y/simple",
-  "version": "1.0.0",
   "description": "Simple and tiny useful packages for Laravel!",
+  "version": "1.0.0",
+  "license": "MIT",
+  "keywords": [
+    "laravel",
+    "crud",
+    "simple"
+  ],
   "type": "library",
   "authors": [
     {
@@ -9,7 +15,7 @@
       "email": "jrb.youssef@gmail.com"
     }
   ],
-  "minimum-stability": "dev",
+  "minimum-stability": "stable",
   "require": {},
   "autoload": {
     "psr-4": {
