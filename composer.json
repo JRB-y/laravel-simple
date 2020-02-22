@@ -1,7 +1,7 @@
 {
   "name": "jrb-y/simple",
-  "version": "0.0.2",
-  "description": "Simle Utilities for laravel!",
+  "version": "1.0.0",
+  "description": "Simple and tiny useful packages for Laravel!",
   "type": "library",
   "authors": [
     {
