@@ -1,7 +1,6 @@
 {
   "name": "jrb-y/simple",
   "description": "Simple and tiny useful packages for Laravel!",
-  "version": "1.0.0",
   "license": "MIT",
   "keywords": [
     "laravel",
@@ -20,13 +19,6 @@
   "autoload": {
     "psr-4": {
       "Jrb\\Simple\\": "src"
-    },
-    "extra": {
-      "laravel": {
-        "providers": [
-          "Jrb\\Simple\\SimpleServiceProvider"
-        ]
-      }
     }
   }
 }
